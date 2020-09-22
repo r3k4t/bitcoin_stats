@@ -36,6 +36,19 @@ cardnumber involved that someone can steal as nobody can charge you money on you
 <ul><li><h4>Great for developers:</h4></li></ul>For developers, bitcoin is the simplest of all payment systems. There are many third-party payment processing services that provide APIs. We don't need to store bitcoins on our server. If you don't use any third-party APIs, you can integrate a bitcoin node directly into your applications, allowing it to become your own bank and 
 payment processor.
 
+### Getting a bitcoin wallet ###
+
+
+
+To start making payments with bitcoin, we need a bitcoin wallet. However, before we create a wallet, we should be aware of the following things:
+
+<ul><li>Security:</li>We should take steps to secure our wallet. There are a lot of different features that come with different wallets. You should evaluate all of them and choose whichever is best for you.
+</ul>
+<ul><li>Volatility:</li>The bitcoin price is volatile and goes up and down, depending on market conditions.
+</ul>
+
+<h6>There are a few more things that you need to be aware of. For more information, refer to <a href=" https://bitcoin.org/en/you-need-to-know">https://bitcoin.org/en/you-need-to-know</a></h6>
+
 ### The different froms of wallet ###
 
 Bitcoin wallets come in a lot of different forms. Some of them are listed here:
