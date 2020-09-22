@@ -62,8 +62,7 @@ Bitcoin wallets may require specific hardware solutions, for example, Trezor. Tr
 
 Bitcoins can be bought from an exchange website. One example of an exchange website is Coinbase.info, and bitcoin.org lists a lot of these exchange websites. Some operate globally and some are specific to a particular country or a region, depending on the laws of that country. There are exchanges available for all regions and countries of the world. For example, one of the most popular ones is Coinbase.com. Here, bitcoins can be sent and sold, and you can see your account details, containing information on what bitcoins you hold with them.
 You can also buy bitcoins from bitcoin ATMs. One of the best websites to use to find your local bitcoin ATM is 
-< a href = "
-https://coinatmradar.com/">https://coinatmradar.com/</a>
+< a href ="https://coinatmradar.com/">https://coinatmradar.com/</a>
 
 
  For example, the following screenshot shows a map of the United States, where you can see all the available bitcoin ATMs where you can buy bitcoin:
