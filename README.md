@@ -47,7 +47,8 @@ To start making payments with bitcoin, we need a bitcoin wallet. However, before
 <ul><li>Volatility:</li>The bitcoin price is volatile and goes up and down, depending on market conditions.
 </ul>
 
-<h6>There are a few more things that you need to be aware of. For more information, refer to </h6> <a href=" https://bitcoin.org/en/you-need-to-know">https://bitcoin.org/en/you-need-to-know</a>
+<h6>There are a few more things that you need to be aware of. For more information, refer to </h6> 
+<a href="https://bitcoin.org/en/you-need-to-know">https://bitcoin.org/en/you-need-to-know</a>
 
 ### The different froms of wallet ###
 
