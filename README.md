@@ -91,7 +91,8 @@ Another place to find businesses that accept bitcoins is <a href = "http://99bit
 
 <ul><li>Microsoft:</li></ul> Users can buy content with bitcoin on Windows store
 
-<ul><li>Reddit:</li></ul> Buy premium features with bitcoins
+<ul><li>Reddit:</li></ul> 
+Buy premium features with bitcoins
 <br>
 If you are interested in searching for local businesses that accept bitcoins, you can search for them at coinmap.org.
 
