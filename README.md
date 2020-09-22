@@ -83,14 +83,14 @@ For example, when we perform a sample search of toaster in the search bar, it wi
 
 Another place to find businesses that accept bitcoins is <a href = "http://99bitcoins.com"></a>http://99bitcoins.com. This website contains a list of companies that accept bitcoins as payment. There are a lot of well-known names that are listed, as shown in the following list:
 
-<ul><li>WordPress:</li></ul> Allows people to create blogs
-
-<ul><li>Overstock:</li></ul> The online retailer
-
-<ul><li>Subway:</li></ul> Accepts bitcoins
-
-<ul><li>Microsoft:</li></ul> Users can buy content with bitcoin on Windows store
-
+<ul><li>WordPress:</li>Allows people to create blogs
+</ul>
+<ul><li>Overstock:</li>The online retailer
+</ul>
+<ul><li>Subway:</li> Accepts bitcoins
+</ul>
+<ul><li>Microsoft:</li> Users can buy content with bitcoin on Windows store
+</ul>
 <ul><li>Reddit:</li> 
 Buy premium features with bitcoins
 </ul>
