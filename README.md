@@ -93,6 +93,10 @@ Another place to find businesses that accept bitcoins is <a href = "http://99bit
 
 <ul><li>Reddit:</li></ul> Buy premium features with bitcoins
 
+
+
+
+
 If you are interested in searching for local businesses that accept bitcoins, you can search for them at coinmap.org.
 
 
