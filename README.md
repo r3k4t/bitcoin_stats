@@ -131,3 +131,5 @@ This is often called a ledger, and is similar to a bank ledger, which keeps a re
 </ul>
 
 ![Screenshot_2020-09-22-17-13-32-737_com termux](https://user-images.githubusercontent.com/69615463/93877185-e0651a80-fcf9-11ea-9592-e7df47801abe.jpg)
+
+![Screenshot_2020-09-22-17-53-26-132_com faultexception reader](https://user-images.githubusercontent.com/69615463/93878896-9df10d00-fcfc-11ea-8538-13ce389d389f.jpg)
